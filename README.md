@@ -1,6 +1,6 @@
 # Shortly
 
-This repo contains source code for [Shortly](https://ayushy11.github.io/Shortly_v1) website.
+This repo contains source code for the UrlShortner [Shortly](https://ayushy11.github.io/Shortly_v1) website.
 
 
 
